@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/exchangerate-host.png
 name: Exchangerate.host
 description: "Free foreign exchange & crypto rates API"
-url: https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+url: https://exchangerate.host
 specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
@@ -35,21 +35,21 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: Exchangerate.host
     description: "Free foreign exchange & crypto rates API"
     humanURL: https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
-    baseURL: https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
     tags:
       - Currency Exchange
     properties:
       - type: Documentation
-        url: https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+        url: https://exchangerate.host
 common:
   - type: DomainSecurity
     url: security/exchangerate-host-domain-security.yml
   - type: Website
-    url: https://exchangerate.host?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+    url: https://exchangerate.host
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
 maintainers:
